@@ -3,8 +3,11 @@
   <item>
       <shape
           android:shape="oval">
-          <solid
-              android:color="#2E2D2D"/>
+<!--          <gradient-->
+<!--              android:startColor="@color/black"-->
+<!--              android:endColor="@color/white"/>-->
+<!--          <solid-->
+<!--              android:color="#2E2D2D"/>-->
           <size android:height="70dp"
               android:width="40dp"/>
       </shape>
